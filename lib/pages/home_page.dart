@@ -42,7 +42,6 @@ class _HomePageState extends State<HomePage> {
             ),
             Expanded(
                 child: Container(
-
                   decoration: BoxDecoration(
                     color: Colors.white,
                     borderRadius: BorderRadius.only(topLeft: Radius.circular(50), topRight: Radius.circular(50))
